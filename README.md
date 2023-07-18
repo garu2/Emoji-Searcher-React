@@ -5,7 +5,9 @@
 [Deploy](https://emoji-searcher-react.vercel.app/)
  
 ## 💻Tutorial
-[YouTube](https://youtu.be/mhDQvSHv5RY)
+<a href='https://youtu.be/mhDQvSHv5RY' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/mhDQvSHv5RY/mqdefault.jpg' alt='Emoji App' />
+</a>
 
 ## 📦Getting Started
 ```
